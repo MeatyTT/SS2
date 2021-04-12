@@ -1,5 +1,5 @@
 import khoHang from "./Bai2KhoHang.js";
-import hangHoa from"./HangHoa.js";
+import hangHoa from"./Bai2HangHoa.js";
 import doGiaDung from "./Bai2DoGiaDung.js";
 import quanAo from "./Bai2QuanAo.js";
 import doAn from "./Bai2DoAn.js";

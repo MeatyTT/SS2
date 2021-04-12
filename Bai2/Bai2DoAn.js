@@ -1,4 +1,4 @@
-import hangHoa from "./HangHoa.js";
+import hangHoa from "./Bai2HangHoa.js";
 
 export default class doAn extends hangHoa{
     vi;

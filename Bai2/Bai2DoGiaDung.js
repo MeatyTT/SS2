@@ -1,4 +1,4 @@
-import hangHoa from "./HangHoa.js";
+import hangHoa from "./Bai2HangHoa.js";
 export default class doGiaDung extends hangHoa{
     doBen;
     constructor(dinhDanh,tenMatHang,giaThanh,nhaSanXuat,ngayNhap,doBen){
